@@ -22,7 +22,7 @@ title: The Thought Archive # the main title
 tagline: my personal blog site # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  anya hooda, Blog, Github, literature, game of thrones, a song of ice and fire, sociology, astrophysics, spectrometer, spectrography
+  anya hooda, Blog, Github, literature, game of thrones, a song of ice and fire, sociology, astrophysics, spectrometer, spectrography, science fiction
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://anya2041.github.io"
@@ -30,8 +30,8 @@ url: "https://anya2041.github.io"
 github:
   username: anya2041 # change to your github username
 
-twitter:
-  username: # change to your twitter username
+instagram:
+  username: its.anya_hoods # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,8 +43,9 @@ social:
     - https://twitter.com/ # change to your twitter homepage
     - https://github.com/anya2041 # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/ahmed.tremo
-    - https://www.linkedin.com/in/ahmedtremo
+    - https://www.instagram.com/its_anya.hoods
+    - https://www.linkedin.com/in/anya-h-896788255
+    - https://fable.co/anya-hooda-872707865341
 
 google_site_verification: # fill in to your verification string
 
@@ -79,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/anya_photo_2025-02.jpg
+avatar: assets/img/personal/anya_photo_2025.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
