@@ -17,12 +17,12 @@ timezone: UTC
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Polymath # the main title
+title: The Thought Archive # the main title
 
 tagline: my personal blog site # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  anyahooda, Blog, Github, Machine Learning, Python
+  anya hooda, Blog, Github, literature, game of thrones, a song of ice and fire, sociology, astrophysics, spectrometer, spectrography
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://anya2041.github.io"
@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/anya_photo_2025-02.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
