@@ -12,7 +12,7 @@ I’ve always been fascinated by how light interacts with different materials, s
 
 Here’s a recap of my experience.  
 
-![My DIY Spectrometer](/assets/img/posts_imgs/photo_2025-02-12_23-51-44.jpg){: width="500"}
+![My DIY Spectrometer](/assets/img/posts_imgs/photo_2025-02-12_23-51-44.jpg){:width="500"}
 *How your spectrometer should look like*  
 
 ---
@@ -40,7 +40,7 @@ Each participant received a **DIY spectrometer kit** with:
 - **Black tape** (to cover the inside and create a controlled light slit)  
 - **Scissors** (for adjustments)  
 
-![Spectrometer Components](/assets/img/posts_imgs/photo_2025-02-12_23-51-47.jpg){: width="500"} 
+![Spectrometer Components](/assets/img/posts_imgs/photo_2025-02-12_23-51-47.jpg){:width="500"} 
 
 ---
 
@@ -53,7 +53,7 @@ We assembled our spectrometers as follows:
 3. **Attach the CD piece** inside the tube at an angle so it diffracts incoming light.  
 4. **Observe the spectrum** by looking through the open end.  
 
-![Completed Spectrometer](/assets/img/posts_imgs/photo_2025-02-12_23-51-48.jpg){: width="500"} 
+![Completed Spectrometer](/assets/img/posts_imgs/photo_2025-02-12_23-51-48.jpg){:width="500"} 
 
 ---
 
@@ -65,7 +65,7 @@ Once built, we tested our spectrometers by analyzing different light sources:
 - **Fluorescent lights** → Displayed **distinct spectral lines**.  
 - **LEDs and lasers** → Produced unique spectra depending on their materials.  
 
-![Light Spectrum Captured](/assets/img/posts_imgs/photo_2025-02-12_23-51-51.jpg){: width="500"}
+![Light Spectrum Captured](/assets/img/posts_imgs/photo_2025-02-12_23-51-51.jpg){:width="500"}
 *Light spectrum observed through my spectrometer (LED used).*  
 
 ---
