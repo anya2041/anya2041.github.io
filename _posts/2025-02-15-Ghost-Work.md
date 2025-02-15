@@ -68,7 +68,7 @@ The paradox of AI’s last mile highlights the challenges of translating theoret
 📌 [MIT Technology Review – AI’s Last Mile](https://www.technologyreview.com/)  
 📌 [Harvard Business Review – AI and Human Collaboration](https://hbr.org/)  
 📌 [Stanford AI Ethics & Policy Research](https://hai.stanford.edu/)  
-📌 [Mary L. Gray & Siddharth Suri, Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](http://sarkoups.free.fr/gray2019.pdf)  
+📌 Mary L. Gray & Siddharth Suri, Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass  
 
 
 
