@@ -2,7 +2,7 @@
 title: "The Paradox of AI's Last Mile"
 date: 2025-02-15
 author: Anya Hooda
-categories: [AI, Automation, Technology, Labor, Digital Economy, Future of Work, Gig Work, Tecnology and Society] 
+categories: [AI, Automation, Technology, Labor, Digital Economy, Future of Work, Gig Work, Society] 
 tags: [ai, artificial-intelligence, last-mile, automation, human-labor, gig-work, digital-economy, robotics, future-of-work]
 ---
 
