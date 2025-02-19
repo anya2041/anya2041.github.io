@@ -11,7 +11,7 @@ tags: [technology, nature, animism, disenchantment, epistemology, anthropocene, 
 ## Introduction
 Technology is not merely a tool created by humans; it shapes our worldview, influences social relations, and redefines our relationship with nature. In this lesson, we explore the historical transition from pre-modern to modern worldviews and examine how technological advancements have altered human perceptions of nature, knowledge, and agency.
 
-## The Reciprocal Influence of Technology oka?
+## The Reciprocal Influence of Technology 
 Technology is often seen as a product of human design, but it also reciprocally influences its creators. This dynamic relationship reshapes social structures, epistemology, and even our fundamental understanding of nature. The term **technological intentionality** describes how technology directs human actions and thoughts in ways that extend beyond its original design. This process is not new but can be traced through historical shifts in worldview.
 
 ## Pre-Modern Worldview: Animism and the Sacredness of Nature
