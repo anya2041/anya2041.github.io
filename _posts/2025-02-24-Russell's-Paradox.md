@@ -1,3 +1,11 @@
+---
+title: "Russell's Paradox: A Deep Dive into Set Theory and Logic"
+date: 2025-02-24
+author: Anya Hooda
+categories: [Mathematics, Logic, Philosophy, Discrete Mathematics]
+tags: [set theory, paradox, logic, Bertrand Russell, type theory, axiomatic systems, math]
+---
+
 # Understanding Russell's Paradox: A Deep Dive
 
 ## Introduction
