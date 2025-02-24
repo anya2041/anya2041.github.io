@@ -36,5 +36,27 @@ Russell's Paradox has profound implications for mathematics and logic:
 3. **Development of Axiomatic Set Theory**: In response to the paradox, formal axiomatic systems such as Zermelo-Fraenkel (ZF) set theory and the von Neumann–Bernays–Gödel (NBG) set theory were developed to avoid such contradictions.
 4. **Limitations of Self-Reference in Logic**: The paradox also influenced the study of self-referential statements, which later played a role in Gödel's incompleteness theorems.
 
+## Classical Solutions to Russell's Paradox
+
+### 1. Type Theory
+
+Russell himself proposed a solution known as **Type Theory**, which restricts how sets can be formed. The idea is to assign "types" to sets, preventing a set from containing itself. In this system:
+
+- Elements are of type `0`.
+- Sets containing elements are of type `1`.
+- Sets containing other sets are of type `2`.
+- A set of type `n` cannot contain a set of the same type or a higher type.
+
+This hierarchical structure avoids self-referential definitions, thereby resolving the paradox.
+
+### 2. Zermelo-Fraenkel Set Theory (ZF)
+
+Another widely accepted approach is **Zermelo-Fraenkel (ZF) set theory**, which imposes restrictions on how sets are formed. The key feature of ZF theory is the **Axiom of Separation**, which states that subsets must be defined based on an existing set rather than an unrestricted property.
+
+In ZF theory, there is no universal set that contains all sets, and self-referential definitions like `R` are disallowed, thus eliminating the paradox.
+
+### 3. Von Neumann-Bernays-Gödel (NBG) Set Theory
+
+The **NBG set theory** extends ZF theory by distinguishing between sets and proper classes. A proper class is a collection too large to be a set (e.g., the class of all sets). Since proper classes cannot be members of other sets, the paradox does not arise within this framework.
 
 
