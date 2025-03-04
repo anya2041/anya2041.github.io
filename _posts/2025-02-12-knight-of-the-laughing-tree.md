@@ -3,7 +3,7 @@ title: The Mystery of the Knight of the Laughing Tree in Game of Thrones
 date: 2025-02-12 18:00 +0200
 categories: [Game of Thrones, ASOIAF, Theories, History]
 tags: [game of thrones, asoiaf, knight of the laughing tree, theories, lyanna stark]
-author: Anya Hooda
+
 ---
 
 ## Introduction
