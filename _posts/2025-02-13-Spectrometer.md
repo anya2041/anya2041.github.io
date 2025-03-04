@@ -1,7 +1,7 @@
 ---
 title: "Building My Own Spectrometer at the Astronuts DIY Spectroscopy Workshop 🚀"
 date: 2025-02-13
-author: Anya Hooda
+
 categories: [Astronomy, Workshops, DIY Projects, Science & Technology]
 tags: [Spectroscopy, DIY Spectrometer, Light Analysis, Astronomy Workshop, Hands-on Science, Experimental Physics, Science Club]
 ---

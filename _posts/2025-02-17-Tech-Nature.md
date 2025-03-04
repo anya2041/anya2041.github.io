@@ -1,7 +1,6 @@
 ---
 title: "Technology, Nature, and the Shifting Human Worldview"
 date: 2025-02-16
-author: Anya Hooda
 categories: [Technology, Philosophy, Society, Anthropology]
 tags: [technology, nature, animism, disenchantment, epistemology, anthropocene, technoscience]
 ---
