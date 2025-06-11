@@ -26,3 +26,22 @@ In *Famine, Affluence, and Morality*, Singer applies this framework to global po
 ---
 
 
+## The Drowning Child Analogy
+
+Singer uses a famous analogy to explain his argument. Imagine you walk past a shallow pond and see a child drowning. Would you jump in to save them, even if it meant ruining your expensive shoes?
+
+Most of us would say yes—of course. The child’s life clearly outweighs the cost of the shoes.
+
+But then Singer makes a startling move: he says that if we accept this logic, we must also accept that *failing to donate to famine relief is like letting that child drown*—just because they are far away doesn’t make their suffering less real or less our concern.
+
+---
+
+## Obligation vs Supererogation
+
+Singer distinguishes between two types of moral actions:
+
+- **Obligatory**: Actions we must do (like saving a drowning child).
+- **Supererogatory**: Praiseworthy actions that go beyond duty (like donating to charity in most common views).
+
+But for Singer, charity is not supererogatory. It’s a duty. Choosing *not* to help when we easily can is not neutral—it’s wrong.
+
