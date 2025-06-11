@@ -15,4 +15,14 @@ That’s exactly the challenge Peter Singer poses. In his 1971 paper *Famine, Af
 
 This post is not just a summary of Singer’s ideas, but a personal attempt to sit with the discomfort they provoke. Because once you’ve read his argument, it’s difficult to unhear it.
 
+---
+
+## Who Is Peter Singer?
+
+Peter Singer is an Australian moral philosopher, best known for his work in practical ethics. Rooted in utilitarianism, his views emphasize minimizing suffering and maximizing well-being—not just for humans, but for all sentient beings.
+
+In *Famine, Affluence, and Morality*, Singer applies this framework to global poverty and hunger. His conclusion? If we can prevent suffering without sacrificing something of comparable moral worth, we are morally obligated to do so.
+
+---
+
 
