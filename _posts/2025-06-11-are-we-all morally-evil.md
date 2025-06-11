@@ -45,3 +45,53 @@ Singer distinguishes between two types of moral actions:
 
 But for Singer, charity is not supererogatory. It’s a duty. Choosing *not* to help when we easily can is not neutral—it’s wrong.
 
+---
+
+## The Strong and Weak Versions
+
+Singer presents two versions of his principle:
+
+- **Strong version**: We must give until we reach the point of marginal utility—until giving more would cause us as much suffering as we prevent.
+- **Weak version**: We must give as long as we do not sacrifice anything morally significant.
+
+Either way, the conclusion is powerful: *luxury in the face of suffering is immoral*.
+
+---
+
+## Real-Life Implications (and Discomfort)
+
+Singer’s ideas are compelling—but deeply uncomfortable. I think about my daily spending habits: an iced coffee, a new book, a cab ride. According to Singer, those funds could have saved lives.
+
+And he’s not wrong. That's what makes the argument so haunting. It’s logically consistent, emotionally unsettling, and practically radical.
+
+---
+
+## Objections and Singer’s Replies
+
+Some common objections Singer responds to:
+
+- **“It’s too demanding!”**  
+  Yes, it is. But Singer says that discomfort with the conclusion doesn’t make the argument false.
+
+- **“What about governments and others who should be helping?”**  
+  True, but the fact that others fail to act doesn’t absolve us of our personal responsibilities.
+
+- **“It won’t solve the whole problem.”**  
+  Perhaps not. But saving one life still matters. Just as pulling one child out of a pond does.
+
+---
+
+## Final Thoughts
+
+Singer’s argument challenges the moral comfort zone of affluent individuals in capitalist societies. It asks: *How much of what we do is really ethical when others are suffering unnecessarily?*
+
+To be honest, I don’t know if I can live by Singer’s radical standard. But I do know that reading his work shifted something in me. It reframed charity—not as generosity, but as responsibility.
+
+Maybe that’s the first step: to stop seeing donations as a favor, and start seeing them as our moral due.
+
+---
+
+> “If it is in your power to prevent something bad from happening, without sacrificing anything of comparable moral importance, it is wrong not to do so.”  
+> —Peter Singer
+
+---
