@@ -65,3 +65,7 @@ The *Übermensch* is not a superhero. Nor is it a villain cloaked in Nietzschean
 As we navigate a world where old certainties crumble—religion, tradition, even reason—Nietzsche asks us: *What values will you live by, if not inherited ones?* The answer isn’t easy, but it may just be the most urgent question of our time.
 
 
+> “Man is a rope, tied between beast and *Übermensch*—a rope over an abyss.”  
+> —Friedrich Nietzsche, *Thus Spoke Zarathustra*
+
+---
