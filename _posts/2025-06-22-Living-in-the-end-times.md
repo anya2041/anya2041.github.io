@@ -24,3 +24,39 @@ Psychologists increasingly recognize *climate grief* as a legitimate emotional r
 
 But as with all grief, we must ask: where do we go from here?
 
+---
+
+## Donna Haraway: “Staying with the Trouble”
+
+In *Staying with the Trouble*, feminist scholar Donna Haraway offers a provocative alternative to despair. She argues against the fantasy of apocalypse or salvation. Instead, she urges us to **stay with the trouble**.
+
+What does this mean?
+
+- Accept that we are already in a crisis
+- Abandon the dream of returning to a pristine, pre-human nature
+- Engage in *sympoiesis*—a process of co-making with other species and systems
+- Hope, not as escape, but as entangled response
+
+For Haraway, hope is not naïve. It is *situated*, active, and messy. It is hope *within trouble*, not beyond it.
+
+---
+
+## Naomi Klein: Crisis and Capitalism
+
+In *This Changes Everything*, Naomi Klein reveals how the climate crisis is inseparable from capitalism’s logic of endless extraction. Hope, for her, requires **structural change**—not just awareness.
+
+Klein reminds us:
+- Hope without action is denial
+- But action without hope is burnout
+
+She warns against “greenwashing” and individualist guilt, but she still believes in a future shaped by collective resistance. Her ethics of hope is political, organized, and urgent.
+
+---
+
+## So—Is It Ethical to Hope?
+
+Hope, in the traditional sense, can be dangerous:
+- It may lull us into inaction
+- It can be used to justify complacency
+- It can serve as a marketable illusion
+
