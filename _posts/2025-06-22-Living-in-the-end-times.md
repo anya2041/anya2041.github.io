@@ -14,3 +14,13 @@ Rising temperatures. Melting ice caps. Vanishing species. Some of us grieve a wo
 
 This post explores a question I’ve been wrestling with: *Is it ethical to have hope in the face of planetary crisis?* And if so, what kind of hope?
 
+---
+
+## The Emotional Landscape: From Climate Awareness to Climate Grief
+
+Unlike regular fear, eco-anxiety is diffuse and existential. It’s not just *what will happen to me?*—it’s *what will happen to us all?* 
+
+Psychologists increasingly recognize *climate grief* as a legitimate emotional response. This grief doesn’t follow linear stages. It loops through helplessness, rage, guilt, and sometimes—numbness.
+
+But as with all grief, we must ask: where do we go from here?
+
