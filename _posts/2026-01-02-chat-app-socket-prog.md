@@ -6,47 +6,8 @@ categories: [computer-networks, systems, python]
 tags: [socket-programming, tcp, client-server, networking, python, threading]
 ---
 
-## Introduction
 
-Modern applications rely heavily on real-time communication, yet the fundamental mechanics behind this interaction often remain abstracted away by high-level frameworks. Socket programming exposes these mechanics directly.
-
-In this post, I document my experience building a **simple chat server and client in Python** using low-level socket programming. The goal of this project was not to build a production-ready chat system, but to understand how processes communicate over a network, how connections are managed, and how concurrency is handled at a basic level.
-
----
-
-## Prerequisites
-
-Before starting, ensure the following requirements are met:
-
-- Python 3.x installed on the system
-- Basic familiarity with Python syntax
-- Introductory understanding of IP addresses and ports
-
-No external libraries are required for this project.
-
----
-
-## Why Socket Programming?
-
-Sockets form the foundation of network communication. Every web request, API call, or messaging service ultimately relies on socket-level interactions.
-
-Working directly with sockets helps clarify:
-- How data flows between machines
-- The difference between connection-oriented and connectionless protocols
-- How servers handle multiple clients simultaneously
-- Why abstractions like HTTP and WebSockets exist
-
-This project uses **TCP sockets**, which prioritize reliability and ordered delivery of data.
-
----
-
-## Project Setup
-
-Create a new directory for the project and navigate into it:
-
-# Building a Chat Server and Client in Python Using Socket Programming
-
-## Introduction
+# Introduction
 
 Real-time communication is a core feature of modern software systems, yet the low-level mechanisms that enable it are often hidden behind abstractions. Socket programming exposes these mechanisms directly, allowing developers to understand how data is transmitted between processes over a network.
 
@@ -63,6 +24,21 @@ Before starting, ensure the following requirements are met:
 - Introductory understanding of IP addresses and ports
 
 No external libraries are required for this project.
+
+---
+---
+
+## Why Socket Programming?
+
+Sockets form the foundation of network communication. Every web request, API call, or messaging service ultimately relies on socket-level interactions.
+
+Working directly with sockets helps clarify:
+- How data flows between machines
+- The difference between connection-oriented and connectionless protocols
+- How servers handle multiple clients simultaneously
+- Why abstractions like HTTP and WebSockets exist
+
+This project uses **TCP sockets**, which prioritize reliability and ordered delivery of data.
 
 ---
 
