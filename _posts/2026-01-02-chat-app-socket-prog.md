@@ -14,6 +14,18 @@ In this post, I document my experience building a **simple chat server and clien
 
 ---
 
+## Prerequisites
+
+Before starting, ensure the following requirements are met:
+
+- Python 3.x installed on the system
+- Basic familiarity with Python syntax
+- Introductory understanding of IP addresses and ports
+
+No external libraries are required for this project.
+
+---
+
 ## Why Socket Programming?
 
 Sockets form the foundation of network communication. Every web request, API call, or messaging service ultimately relies on socket-level interactions.
