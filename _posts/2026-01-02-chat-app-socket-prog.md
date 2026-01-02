@@ -7,7 +7,7 @@ tags: [socket-programming, tcp, client-server, networking, python, threading]
 ---
 
 
-# Introduction
+## Introduction
 
 Real-time communication is a core feature of modern software systems, yet the low-level mechanisms that enable it are often hidden behind abstractions. Socket programming exposes these mechanisms directly, allowing developers to understand how data is transmitted between processes over a network.
 
